@@ -1,4 +1,4 @@
-I have used react.js and node.js to create this quiz application.
+I have used React.js and Node.js to create this quiz application.
 
 To store the data I have used firebase. 
 
